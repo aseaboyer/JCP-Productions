@@ -54,3 +54,14 @@ img.rounded {
 .media > img {
     margin-right: 1rem;
 }
+
+
+/* Font Awesome Styles */
+.theme-jcp-primary {
+    --fa-primary-color: #9326b2;
+    --fa-secondary-color: #ff5757;
+}
+.theme-jcp-secondary {
+    --fa-primary-color: #9326b2;
+    --fa-secondary-color: #c2cbff;
+}
