@@ -63,6 +63,13 @@ img.rounded {
     margin-right: 1rem;
 }
 
+/* Equal height support */
+.archive {
+    display: flex;
+    align-items: stretch !important;
+    flex-wrap: wrap;
+}
+
 
 /* Font Awesome Styles */
 .theme-jcp-primary {
