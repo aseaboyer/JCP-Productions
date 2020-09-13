@@ -1,0 +1,5 @@
+# Ignore sources dir - creation files
+Source/
+
+# Local bootstrap files
+bootstrap
